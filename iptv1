@@ -1,15 +1,62 @@
-http://bit.ly/2vOmAFp
-https://bit.ly/2Cmk6zn
-#EXTM3U
-#EXTINF:-1,ABC News1
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1,Aljazeera Documentry
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:0,Life News
-http://tv.life.ru/lifetv/720p/index.m3u8
-#EXTINF:-1,ZDF HD
-http://iptvsource3.tv//index-b.m3u8?sd=10&dw=0&rebase=on”
-#EXTINF:-1,Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:-1,MKV file
-http://jell.yfish.us/media/jellyfish-3-mbps-hd-h264.mkv
+#EXTINF:-1,CH: RSI LA
+
+2 HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57595 #EXTINF:-1,CH: RSI LA 1 HD
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57596
+#EXTINF:-1,CH: SRF INFO
+HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57597
+#EXTINF:-1,CH: SRF ZWEI HD
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57598
+#EXTINF:-1,CH: SRF
+1 HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57599
+#EXTINF:-1,CH: RTS UN
+HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57600
+#EXTINF:-1,CH: RTS DEUX
+
+HD
+
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57601 #EXTINF:-1,CH:
+PLUS 8 HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57602
+#EXTINF:-1,CH: 3+ HD
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57603
+#EXTINF:-1,CH: 4+ HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57604 #EXTINF :-1,CH: 5+
+
+HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57605 #EXTINF:-1,CH:
+
+TV 24 HD
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57606 #EXTINF:-1,CH: TV 25 HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57607
+#EXTINF:-1,CH: TELECLUB CINEMA HD
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57608
+#EXTINF:-1,CH: TELECLUB
+PRIME HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57609
+
+
+
+
+
+
+
+
+#EXTINF:-1,CH: TELECLUB STAR HD
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57610
+#EXTINF:-1,CH: TELECLUB ZOOM HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57611 #EXTINF:-1,CH: TELECLUB ACTION HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57612 #EXTINF:-1,CH: TELECLUB EMOTION HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57613 #EXTINF:-1,CH: TELECLUB SPORT 1 HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57614 #EXTINF:-1 ,CH: TELECLUB SPORT
+
+2
+HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57615 #EXTINF:-1,CH: MY SPORTS HD http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57616
+#EXTINF:-1,CH: MY SPORTS 1 HD/ 1
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57617
+#EXTINF:-1,CH: MY SPORTS 2 HD/ 2
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57618
+#EXTINF:-1,CH: MY SPORTS 3 HD/ 3
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57619
+#EXTINF:-1,CH: MY SPORTS 4 HD/ 4
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57620
+#EXTINF:-1,CH: MY SPORTS 5 HD/ 5
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57621
+#EXTINF:-1,CH: MY SPORTS 6 HD/ 6
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57622
+#EXTINF:-1,CH: MY SPORTS 7 HD/ 7
+http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57623
+#EXTINF :-1,CH: MY SPORTS 8
+
+HD/ 8 http://iptvclub.live:25461/xxpg48ACnygIGvw/FqEmSami4dvzHBP/57624 #EXTINF:-1,CH:
+MY SPORTS 9 HD/
